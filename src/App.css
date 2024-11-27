@@ -426,6 +426,9 @@ a:hover {
   .img-unhas{
     width: 200px;
   }
-  
+  .container-unhas{
+    display: flex;
+    justify-content: center;
+  }
 
 }
