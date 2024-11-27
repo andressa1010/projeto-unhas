@@ -389,8 +389,9 @@ a:hover {
   }
   #container-galeria{
     display: flex;
-    justify-content: center;
-  }
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
   .container-banner-novo{
     display: flex;
     flex-wrap: wrap;
@@ -441,6 +442,10 @@ a:hover {
   .img-servicos , .img-motivos , .img-banner{
     width: 350px;
   }
- 
+  #container-galeria{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+ }
   
 }
