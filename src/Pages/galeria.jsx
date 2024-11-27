@@ -82,7 +82,7 @@ const Galeria = () => {
             galeriaUnhas.map((produto)=>(
               <div key={produto.id} className="galeria">
                 <h2> {produto.name} </h2>
-                <img className="img-unhas"
+                <img className="img-unhas-manicure-pedicure"
                 src={produto.image} alt={produto.name} ></img>
                 </div>
             ))

@@ -34,7 +34,7 @@ a:hover {
   gap: 10px;
 }
 
-.img-unhas {
+.img-unhas , .img-unhas-manicure-pedicure{
   width: 400px;
   border-radius: 40px;
 }
@@ -420,7 +420,7 @@ a:hover {
 }
 
 @media(max-width:480px){
-  .container-servicos, .container-manicure-pedicure{
+  .container-servicos, .container-manicure-pedicure , #container-galeria{
     display: flex;
     justify-content: center;
   }
@@ -442,10 +442,4 @@ a:hover {
   .img-servicos , .img-motivos , .img-banner{
     width: 350px;
   }
-  #container-galeria{
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
- }
-  
 }
