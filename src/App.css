@@ -419,7 +419,7 @@ a:hover {
 }
 
 @media(max-width:480px){
-  .container-servicos{
+  .container-servicos, .container-manicure-pedicure{
     display: flex;
     justify-content: center;
   }
@@ -438,10 +438,9 @@ a:hover {
     display: flex;
     justify-content: center;
   }
-  .img-servicos{
+  .img-servicos , .img-motivos , .img-banner{
     width: 350px;
   }
-  .img-motivos{
-    width: 350px;
-  }
+ 
+  
 }
