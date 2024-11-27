@@ -199,11 +199,13 @@ const Servicos = () => {
           ></img>
         </div>
         <div className="content-manicure-pedicure">
+          <a href="https://www.whatsapp.com/?lang=pt_BR">
           <img
             className="img-banner"
             src="/Marque seu Horário Nail Designer Link Minimalista Dourado Story do Instagram.png"
             alt="imagem unhas"
           ></img>
+          </a>
         </div>
       </div>
 
