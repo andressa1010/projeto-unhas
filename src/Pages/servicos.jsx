@@ -158,7 +158,7 @@ const Servicos = () => {
         <div className="content-manicure-pedicure">
           <img
             className="img-banner"
-            src="/Story Instagram  manicure e Pedicure marrom .png"
+            src="/Story Instagram  manicure e Pedicure marrom  (1).png"
             alt="imagem unhas"
           ></img>
         </div>
