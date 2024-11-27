@@ -1,0 +1,420 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 10px;
+  font-size: 28px;
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+  color: deeppink;
+}
+
+a:hover {
+  color: chartreuse;
+}
+
+.container-servicos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.img-unhas {
+  width: 400px;
+  border-radius: 40px;
+}
+
+.text-servicos {
+  max-width: 600px;
+  font-size: 28px;
+  color: deeppink;
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container-main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.unhas-main {
+  width: 400px;
+  border-radius: 40px;
+}
+
+.text-main {
+  max-width: 600px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.estilo-video {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -1;
+}
+
+.mascara {
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    109deg,
+    rgba(10, 12, 16, 0.99) 15%,
+    rgba(10, 12, 16, 0.7) 50%,
+    rgba(10, 12, 16, 0.99) 85%
+  );
+  position: fixed;
+  top: 0;
+  z-index: -1;
+}
+
+.h2-sessao{
+  display: flex;
+  justify-content: center;
+}
+
+.h2-sessao h2{
+  color:#ffffff;
+  font-size: 30px;
+}
+
+.container-unhas{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.content-unhas{
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+
+}
+
+.content-unhas h2{
+  color: deeppink;
+}
+.unha-azul{
+  width: 400px;
+  border-radius: 40px;
+}
+
+.unha-rosa{
+  width: 300px;
+  border-radius: 40px;
+}
+
+.unha-branca{
+  width: 370px;
+  border-radius: 40px;
+}
+
+.unha-azul-branca{
+  width: 390px;
+  border-radius: 40px;
+}
+
+.text-p , .div-h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.img-servico{
+  width: 500px;
+  border-radius: 40px;
+}
+
+.text-p p{
+  font-size: 27px;
+  color: #ffffff;
+  max-width: 600px;
+}
+
+.div-h2{
+  font-size: 30px;
+  color: deeppink;
+}
+
+.container-espaco{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-espaco{
+  width: 400px;
+  border-radius: 40px;
+}
+
+.container-espaco p{
+  font-size: 20px;
+  color: #ffffffff;
+  max-width: 600px;
+}
+
+.container-servicos-loja{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+}
+
+.content-servicos{
+  margin: 10px;
+  padding: 10px;
+
+}
+
+.img-servicos{
+  width: 400px;
+  border-radius: 40px;
+}
+
+.container-pedicure{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.img-pe{
+  width: 300px;
+  border-radius: 40px;
+}
+
+.img-pe-unha-vermelha, .img-pe-unha-decorada{
+  width: 280px;
+  border-radius: 40px;
+}
+
+.container-pes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.container-pes p{
+  font-size: 28px;
+  color: #ffffff;
+  max-width: 600px;
+}
+
+
+.img-pes{
+  width: 600px;
+  border-radius: 40px;
+}
+
+.img-pes-massagem{
+  margin: 20px;
+  width: 580px;
+  border-radius: 40px;
+}
+
+
+.container-banner{
+  display: flex;
+  justify-content: space-between;
+
+  
+}
+
+.content-banner{
+  margin: 20px;
+  padding: 10px;
+}
+
+.img-banner{
+  width: 400px;
+  border-radius: 40px;
+}
+
+.zap{
+  display: flex;
+  justify-content: right;
+}
+
+.img-zap{
+  height: 65px;
+}
+
+#container-galeria{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.galeria{
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.galeria h2{
+  color: deeppink;
+}
+
+.div-text-unhas{
+  display: flex;
+  justify-content: center;
+}
+
+.div-text-unhas h2{
+  color: #ffffff;
+  font-size: 25px;
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container-descricao{
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.container-descricao p{
+  font-size: 25px;
+  color: #ffffff;
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+  max-width: 600px;
+  color: deeppink;
+}
+
+.img-motivos{
+  width: 500px;
+  border-radius: 40px;
+}
+
+.container-banner-motivos{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.container-banner-novo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-banner-novo p{
+  font-size: 20px;
+  color: deeppink;
+  font-family: "Pacifico", serif;
+  font-weight: 400;
+  font-style: normal;
+  max-width: 600px;
+}
+
+.img-banner-novo{
+  width: 500px;
+  border-radius: 40px;
+}
+
+.container-manicure-pedicure{
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.container-unhas-beneficios{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-unhas-beneficios p{
+  font-size: 25px;
+  color:#ffffffff;
+  max-width: 600px;
+}
+
+
+@media(max-width: 500px){
+  .container-servicos{
+    display: flex;
+    justify-content: center;
+  }
+  .img-unhas{
+    width: 300px;
+  }
+  .text-servicos{
+    font-size: 18px;
+  }
+  .container-main, .container-espaco, .text-p{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .h2-sessao{
+    margin: 20px;
+  }
+  .container-pedicure{
+    display: flex;
+    justify-content: center;
+  }
+  .container-banner , .container-banner-motivos{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  
+  }
+  #container-galeria{
+    display: flex;
+    justify-content: center;
+  }
+  .container-banner-novo{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .img-banner-novo{
+    width: 400px;
+
+  }
+  .img-pes , .img-pes-massagem{
+    width: 460px;
+  }
+  .container-manicure-pedicure{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 20px;
+    
+  }
+  .container-manicure-pedicure img{
+    margin: 10px;
+  }
+  .img-motivos{
+    width: 460px;
+  }
+
+}
+
