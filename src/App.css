@@ -418,3 +418,10 @@ a:hover {
 
 }
 
+@media(max-width:480px){
+  .container-servicos{
+    display: flex;
+    justify-content: center;
+  }
+
+}
