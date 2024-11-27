@@ -423,5 +423,9 @@ a:hover {
     display: flex;
     justify-content: center;
   }
+  .img-unhas{
+    width: 200px;
+  }
+  
 
 }
