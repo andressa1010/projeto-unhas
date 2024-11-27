@@ -430,5 +430,8 @@ a:hover {
     display: flex;
     justify-content: center;
   }
-
+  .container-main p{
+    margin: 10px;
+    font-size: 16px;
+  }
 }
