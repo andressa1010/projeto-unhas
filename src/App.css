@@ -434,4 +434,14 @@ a:hover {
     margin: 10px;
     font-size: 16px;
   }
+  .container-servicos-loja{
+    display: flex;
+    justify-content: center;
+  }
+  .img-servicos{
+    width: 300px;
+  }
+  .img-motivos{
+    width: 300px;
+  }
 }
