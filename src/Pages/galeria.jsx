@@ -48,6 +48,37 @@ const galeriaUnhas=[
     name: "Mão e Pé",
     image:"/unhas-maos-pes-vermelho.jpg"
   },
+  {
+    id: 10,
+    name: "Unhas Fibra de Vidro",
+    image:"/unhas11.jpg"
+  },
+  {
+    id: 11,
+    name: "Unhas Fibra de Vidro",
+    image:"/unhas-em-gel-decoradas-19-1.webp"
+  },
+  {
+    id: 12,
+    name: "Unhas Fibra de Vidro",
+    image:"/unhas09.jpg"
+  },
+  {
+    id: 13,
+    name: "Unhas Fibra de Vidro",
+    image:"/unhas-verdes.jpg"
+  },
+  {
+    id: 14,
+    name: "Unhas Fibra de Vidro",
+    image:"/unha-clara-decorada-folha-de-ouro.jpg"
+  },
+  {
+    id: 15,
+    name: "Unhas Fibra de Vidro",
+    image:"/unhas08.webp"
+  },
+ 
 ]
  
 

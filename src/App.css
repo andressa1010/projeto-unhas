@@ -34,7 +34,8 @@ a:hover {
   gap: 10px;
 }
 
-.img-unhas , .img-unhas-manicure-pedicure{
+.img-unhas,
+.img-unhas-manicure-pedicure {
   width: 400px;
   border-radius: 40px;
 }
@@ -89,201 +90,196 @@ a:hover {
   z-index: -1;
 }
 
-.h2-sessao{
+.h2-sessao {
   display: flex;
   justify-content: center;
 }
 
-.h2-sessao h2{
-  color:#ffffff;
+.h2-sessao h2 {
+  color: #ffffff;
   font-size: 30px;
 }
 
-.container-unhas{
+.container-unhas {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 10px;
 }
 
-.content-unhas{
+.content-unhas {
   margin: 10px;
   padding: 10px;
   text-align: center;
-
 }
 
-.content-unhas h2{
+.content-unhas h2 {
   color: deeppink;
 }
-.unha-azul{
+.unha-azul {
   width: 400px;
   border-radius: 40px;
 }
 
-.unha-rosa{
+.unha-rosa {
   width: 300px;
   border-radius: 40px;
 }
 
-.unha-branca{
+.unha-branca {
   width: 370px;
   border-radius: 40px;
 }
 
-.unha-azul-branca{
+.unha-azul-branca {
   width: 390px;
   border-radius: 40px;
 }
 
-.text-p , .div-h2{
+.text-p,
+.div-h2 {
   display: flex;
   justify-content: center;
   align-items: center;
-  
 }
 
-.img-servico{
+.img-servico {
   width: 500px;
   border-radius: 40px;
 }
 
-.text-p p{
+.text-p p {
   font-size: 27px;
   color: #ffffff;
   max-width: 600px;
 }
 
-.div-h2{
+.div-h2 {
   font-size: 30px;
   color: deeppink;
 }
 
-.container-espaco{
+.container-espaco {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.img-espaco{
+.img-espaco {
   width: 400px;
   border-radius: 40px;
 }
 
-.container-espaco p{
+.container-espaco p {
   font-size: 20px;
   color: #ffffffff;
   max-width: 600px;
 }
 
-.container-servicos-loja{
+.container-servicos-loja {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
   padding: 10px;
 }
 
-.content-servicos{
+.content-servicos {
   margin: 10px;
   padding: 10px;
-
 }
 
-.img-servicos{
+.img-servicos {
   width: 400px;
   border-radius: 40px;
 }
 
-.container-pedicure{
+.container-pedicure {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-.img-pe{
+.img-pe {
   width: 300px;
   border-radius: 40px;
 }
 
-.img-pe-unha-vermelha, .img-pe-unha-decorada{
+.img-pe-unha-vermelha,
+.img-pe-unha-decorada {
   width: 280px;
   border-radius: 40px;
 }
 
-.container-pes{
+.container-pes {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
 
-.container-pes p{
+.container-pes p {
   font-size: 28px;
   color: #ffffff;
   max-width: 600px;
 }
 
-
-.img-pes{
+.img-pes {
   width: 600px;
   border-radius: 40px;
 }
 
-.img-pes-massagem{
+.img-pes-massagem {
   margin: 20px;
   width: 580px;
   border-radius: 40px;
 }
 
-
-.container-banner{
+.container-banner {
   display: flex;
   justify-content: space-between;
-
-  
 }
 
-.content-banner{
+.content-banner {
   margin: 20px;
   padding: 10px;
 }
 
-.img-banner{
+.img-banner {
   width: 400px;
   border-radius: 40px;
 }
 
-.zap{
+.zap {
   display: flex;
   justify-content: right;
 }
 
-.img-zap{
+.img-zap {
   height: 65px;
 }
 
-#container-galeria{
+#container-galeria {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-.galeria{
+.galeria {
   margin: 10px;
   padding: 10px;
   text-align: center;
 }
 
-.galeria h2{
+.galeria h2 {
   color: deeppink;
 }
 
-.div-text-unhas{
+.div-text-unhas {
   display: flex;
   justify-content: center;
 }
 
-.div-text-unhas h2{
+.div-text-unhas h2 {
   color: #ffffff;
   font-size: 25px;
   font-family: "Pacifico", serif;
@@ -291,14 +287,14 @@ a:hover {
   font-style: normal;
 }
 
-.container-descricao{
+.container-descricao {
   display: flex;
-  justify-content:space-around;
+  justify-content: space-around;
   align-items: center;
   flex-wrap: wrap;
 }
 
-.container-descricao p{
+.container-descricao p {
   font-size: 25px;
   color: #ffffff;
   font-family: "Pacifico", serif;
@@ -308,24 +304,24 @@ a:hover {
   color: deeppink;
 }
 
-.img-motivos{
+.img-motivos {
   width: 500px;
   border-radius: 40px;
 }
 
-.container-banner-motivos{
+.container-banner-motivos {
   display: flex;
   justify-content: space-between;
   margin: 20px;
 }
 
-.container-banner-novo{
+.container-banner-novo {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.container-banner-novo p{
+.container-banner-novo p {
   font-size: 20px;
   color: deeppink;
   font-family: "Pacifico", serif;
@@ -334,112 +330,116 @@ a:hover {
   max-width: 600px;
 }
 
-.img-banner-novo{
+.img-banner-novo {
   width: 500px;
   border-radius: 40px;
 }
 
-.container-manicure-pedicure{
+.container-manicure-pedicure {
   display: flex;
   justify-content: space-between;
   margin: 20px;
 }
 
-.container-unhas-beneficios{
+.container-unhas-beneficios {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.container-unhas-beneficios p{
+.container-unhas-beneficios p {
   font-size: 25px;
-  color:#ffffffff;
+  color: #ffffffff;
   max-width: 600px;
 }
 
-
-@media(max-width: 500px){
-  .container-servicos{
+@media (max-width: 500px) {
+  .container-servicos {
     display: flex;
     justify-content: center;
   }
-  .img-unhas{
+  .img-unhas {
     width: 300px;
   }
-  .text-servicos{
+  .text-servicos {
     font-size: 18px;
   }
-  .container-main, .container-espaco, .text-p{
+  .container-main,
+  .container-espaco,
+  .text-p {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
   }
-  .h2-sessao{
+  .h2-sessao {
     margin: 20px;
   }
-  .container-pedicure{
+  .container-pedicure {
     display: flex;
     justify-content: center;
   }
-  .container-banner , .container-banner-motivos{
+  .container-banner,
+  .container-banner-motivos {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
-  
   }
-  #container-galeria{
+  #container-galeria {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
- }
-  .container-banner-novo{
+  }
+  .container-banner-novo {
     display: flex;
     flex-wrap: wrap;
   }
-  .img-banner-novo{
+  .img-banner-novo {
     width: 400px;
-
   }
-  .img-pes , .img-pes-massagem{
+  .img-pes,
+  .img-pes-massagem {
     width: 460px;
   }
-  .container-manicure-pedicure{
+  .container-manicure-pedicure {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     margin: 20px;
-    
   }
-  .container-manicure-pedicure img{
+  .container-manicure-pedicure img {
     margin: 10px;
   }
-  .img-motivos{
+  .img-motivos {
     width: 460px;
   }
-
 }
 
-@media(max-width:480px){
-  .container-servicos, .container-manicure-pedicure , #container-galeria{
+@media (max-width: 480px) {
+  .container-servicos,
+  .container-manicure-pedicure,
+  #container-galeria,
+  .container-servicos-loja {
     display: flex;
     justify-content: center;
   }
-  .img-unhas{
+  .img-unhas {
     width: 200px;
   }
-  .container-unhas{
+  .container-unhas {
     display: flex;
     justify-content: center;
   }
-  .container-main p{
+  .container-main p {
     margin: 10px;
     font-size: 16px;
   }
-  .container-servicos-loja{
-    display: flex;
-    justify-content: center;
-  }
-  .img-servicos , .img-motivos , .img-banner{
+
+  .img-servicos,
+  .img-motivos,
+  .img-banner {
     width: 350px;
+  }
+  .container-pes {
+    margin: 10px;
   }
 }
