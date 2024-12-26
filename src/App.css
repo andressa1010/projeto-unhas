@@ -442,4 +442,10 @@ a:hover {
   .container-pes {
     margin: 10px;
   }
+  .text-p p{
+    font-size: 18px;
+  }
+  .container-pes p{
+    font-size: 20px;
+  }
 }
