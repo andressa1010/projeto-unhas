@@ -443,9 +443,15 @@ a:hover {
     margin: 10px;
   }
   .text-p p{
-    font-size: 18px;
+    font-size: 15px;
   }
   .container-pes p{
     font-size: 20px;
   }
+  .container-espaco p{
+    font-size: 15px;
+  }
 }
+
+
+

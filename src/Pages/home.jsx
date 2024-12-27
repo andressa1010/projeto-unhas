@@ -146,7 +146,7 @@ const Home = () => {
           Aqui está o porquê escolher-nos é uma decisão que fará toda a
           diferença: Perfeição em cada detalhe do design da sua unha Compromisso
           com a saúde das suas unhas Arte e expertise em sintonia Experiência
-          que vai além do espelho; Seu brilho, nossa missão.
+          que vai além do espelho, Seu brilho, nossa missão.
         </p>
         <img className="img-espaco" src="/espaco.jpg" alt="imagem loja"></img>
       </div>
